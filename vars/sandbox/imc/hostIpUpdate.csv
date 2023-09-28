@@ -1,0 +1,4 @@
+cimc,type,vnicsAdd,uplinkPorts,pcieOrder,chassisSerial
+172.16.2.50,hx,eth8;eth9,Port-1;Port-2,2.0;2.1,WMP242100TJ
+172.16.2.51,hx,eth8;eth9,Port-1;Port-2,2.0;2.1,WMP242100SB
+172.16.2.52,hx,eth8;eth9,Port-1;Port-2,2.0;2.1,WMP261700YM
